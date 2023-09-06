@@ -21,7 +21,7 @@
 </head>
 
 <body class="h-screen flex items-center justify-center dark:bg-slate-800">
-    <!-- <div class="p-8 max-w-sm mx-auto bg-white rounded-xl shadow-md">
+    <div class="p-8 max-w-sm mx-auto bg-white rounded-xl shadow-md">
         <div class="shrink-0">
             <img class="h-12 w-12" src="img/air-canada-plane.jpg" alt="ChitChat Logo">
         </div>
@@ -29,7 +29,7 @@
             <div class="text-xl font-medium text-black">ChitChat</div>
             <p class="text-slate-500">You have a new message!</p>
         </div>
-    </div> -->
+    </div>
 
     <div class="max-w-sm mx-auto p-8 bg-white rounded-xl shadow-md space-y-2 sm:text sm:items-center sm:py-4 sm:space-y-0 sm:space-x-6 sm:dark:hover:bg-gray-700">
        <img class="h-24 mx-auto rounded-full ring-4 sm:flex-shrink-0 transform hover:scale-105 duration-500" src="img/air-canada-plane.jpg" alt="ChitChat Logo">
